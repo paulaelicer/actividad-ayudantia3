@@ -20,9 +20,7 @@
     top: 20px;
     left: 20px;
 }  
-.dav{
-    background: thistle;
-    float: right;
+
 }
 .par{
     background: yellow;
@@ -32,10 +30,23 @@
 }  
 
 .div{
-    background: seagreen;
+    background: burlywood;
+    margin: 10px 10px 10px 10px;
 }
-#enlace{
-    background: red;
-    width: 300px;
-    display: inline-block;
+
+.foto1{
+    float: left;
+    padding: 20px 30px;
+    margin: 10px 10px 10px 10px;
+}
+.foto2{
+    float: right;
+    padding: 20px 30px;
+    margin: 10px 10px 10px 10px;
+}
+.dav{
+    background: tomato;
+    float: left;
+    padding: 5px 5px;
+    margin: 10px 10px 10px 10px;
 }
